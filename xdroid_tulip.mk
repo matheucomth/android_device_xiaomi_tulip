@@ -15,7 +15,7 @@ $(call inherit-product, vendor/xdroid/config/common.mk)
 $(call inherit-product, device/xiaomi/tulip/device.mk)
 
 # Device Info
-PRODUCT_NAME := aosp_tulip
+PRODUCT_NAME := xdroid_tulip
 PRODUCT_DEVICE := tulip
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 6 Pro
