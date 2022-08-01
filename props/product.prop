@@ -1,3 +1,6 @@
+# Blur
+ro.launcher.blur.appLaunch=0
+
 # Charger
 ro.charger.disable_init_blank=true
 ro.charger.enable_suspend=true
